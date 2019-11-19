@@ -21,3 +21,7 @@ section {
     background: url(./img/bg-image2.jpg) center center;
     background-size: cover;
 }
+
+header .logo img {
+    width: 100px;
+}
