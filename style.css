@@ -13,3 +13,11 @@ a {
 ul li {
     list-style: none;
 }
+
+section {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background: url(./img/bg-image2.jpg) center center;
+    background-size: cover;
+}
