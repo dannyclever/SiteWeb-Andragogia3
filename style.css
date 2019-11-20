@@ -96,7 +96,7 @@ header {
     padding: 0;
 }
 
-header .navbar {
+    header .navbar {
     width: 100%;
     top: -4px;
     display: none;
@@ -112,4 +112,9 @@ header .navbar {
     text-align: center;
     color: #fff;
     background: rgba(0, 0, 0, .5);
+}
+
+    header .navbar .menu-item a:hover {
+    background: #0E3745;
+ }
 }
