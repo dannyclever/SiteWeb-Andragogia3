@@ -49,3 +49,16 @@ header {
 /*.navbar .menu-item {
     list-style: none;
 }*/
+
+.navbar .menu-item a {
+    position: relative;
+    display: block;
+    padding: 10px 20px;
+    margin: 20px 0;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #F9CC31;
+    font-weight: bold;
+    transition: .5s;
+    margin-bottom: 42px;
+}
