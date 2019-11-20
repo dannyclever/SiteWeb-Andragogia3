@@ -23,7 +23,8 @@ section {
 }
 
 header .logo img {
-    width: 100px;
+    width: 216px;
+    padding-top: 20px;
 }
 
 header {
