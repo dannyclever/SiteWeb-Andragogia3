@@ -84,3 +84,14 @@ header {
     color: #fff;
     font-size: 2em;
 }
+
+/*RESPONSIVE*/
+@media(max-width: 992px) {
+
+    .menu-toggle {
+    display: block;
+}
+
+    header {
+    padding: 0;
+}
